@@ -1,0 +1,4 @@
+hugo.txt filter=lfs diff=lfs merge=lfs -text
+proust.txt filter=lfs diff=lfs merge=lfs -text
+stendhal.txt filter=lfs diff=lfs merge=lfs -text
+zola.txt filter=lfs diff=lfs merge=lfs -text
